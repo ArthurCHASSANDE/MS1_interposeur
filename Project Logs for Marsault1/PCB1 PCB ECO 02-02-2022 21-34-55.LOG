@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=MOT4L_CONN Pin=J51-01
+Removed Pin From Net: NetName=MOT4H_CONN Pin=J51-04
+Removed Pin From Net: NetName=MOT4H_CONN Pin=J?-1
+Removed Pin From Net: NetName=MOT4L_CONN Pin=J?-2
+Removed Member From Class: ClassName=PWR Member=+VBAT_MOTOR1
+Removed Member From Class: ClassName=PWR Member=+VBAT_MOTOR2
+Removed Member From Class: ClassName=PWR Member=+VBAT
+Removed Member From Class: ClassName=PWR Member=MOT1H_CONN
+Removed Member From Class: ClassName=PWR Member=MOT1L_CONN
+Removed Member From Class: ClassName=PWR Member=MOT2H_CONN
+Removed Member From Class: ClassName=PWR Member=MOT2L_CONN
+Removed Member From Class: ClassName=PWR Member=MOT3H_CONN
+Removed Member From Class: ClassName=PWR Member=MOT3L_CONN
+Removed Member From Class: ClassName=PWR Member=MOT4H_CONN
+Removed Member From Class: ClassName=PWR Member=MOT4L_CONN
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Added Pin To Net: NetName=MOT4L_CONN Pin=J10-1
+Added Pin To Net: NetName=MOT4H_CONN Pin=J10-2
+Added Member To Class: ClassName=MAIN Member=Component J3 436500200
+Added Member To Class: ClassName=MAIN Member=Component J4 436500200
+Added Member To Class: ClassName=MAIN Member=Component J5 436500200
+Added Member To Class: ClassName=MAIN Member=Component J6 436500200
+Added Member To Class: ClassName=MAIN Member=Component J7 436500200
+Added Member To Class: ClassName=MAIN Member=Component J9 436500200
+Added Member To Class: ClassName=MAIN Member=Component J10 436500200
+Added Member To Class: ClassName=MAIN Member=Component J11 43650-0400
+Added Member To Class: ClassName=MAIN Member=Component J12 43650-0400
+Added Member To Class: ClassName=MAIN Member=Component J13 43650-0400
+Added Member To Class: ClassName=MAIN Member=Component J14 43650-0400

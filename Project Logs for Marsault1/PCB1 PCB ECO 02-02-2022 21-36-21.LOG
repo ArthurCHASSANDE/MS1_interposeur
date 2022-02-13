@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MOT4L_CONN Pin=J51-01
+Added Pin To Net: NetName=MOT4H_CONN Pin=J51-04
+Added Member To Class: ClassName=MAIN Member=Component J8 436500200

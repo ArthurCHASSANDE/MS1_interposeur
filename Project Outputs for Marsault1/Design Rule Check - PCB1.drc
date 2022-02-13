@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Marsault1_interposeur\PCB1.PcbDoc
+Date     : 13/02/2022
+Time     : 11:15:45
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InNetClass('HF')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.156mm) (Max=0.159mm) (Preferred=0.159mm) (InNetClass('HF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.762mm) (Preferred=0.762mm) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.75mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U11_U4_MatchLengthsClass_2'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U11_U4_MatchLengthsClass_1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U4_U5_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U4_U3_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_SD_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_P1_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InxSignalClass('xSignals_U3_Passives_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InxSignalClass('xSignals_U2_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InxSignalClass('xSignals_U3_Passives_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InxSignalClass('xSignals_SD1_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=50ps) (InxSignalClass('xSignals_U3_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InxSignalClass('xSignals_U11_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InxSignalClass('xSignals_J79_U4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
